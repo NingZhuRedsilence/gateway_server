@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/annotations" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/apache-jsp" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/apache-jstl" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/fcgi" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/http2" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jaspi" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jndi" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/monitor" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/setuid" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/spring" />
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/websocket" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/cdi-core-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/cdi-servlet-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/cdi-websocket-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-alpn-server-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-annotations-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-client-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-continuation-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-deploy-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-gcloud-session-manager-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-http-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-infinispan-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-io-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-jaas-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-jaspi-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-jmx-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-jndi-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-nosql-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-plus-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-proxy-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-quickstart-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-rewrite-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-security-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-server-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-servlet-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-servlets-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-util-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-webapp-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jetty-xml-9.3.10.v20160621.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/servlet-api-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/setuid" />
+        </NATIVE>
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/annotations" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/apache-jsp" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/apache-jstl" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/fcgi" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/http2" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jaspi" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/jndi" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/monitor" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/setuid" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/spring" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/nz9/software/jetty-distribution-9.3.10.v20160621/lib/websocket" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
